@@ -23,7 +23,7 @@ pkgs = %w{
   flex
   gcc
   gcc-c++
-  kernel-devel
+  kernel-headers
   make
   m4
 }
